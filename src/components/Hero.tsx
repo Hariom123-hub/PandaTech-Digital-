@@ -21,7 +21,7 @@ export default function Hero({ onDemoRequest }: HeroProps) {
           preload="auto"
           className="w-full h-full object-cover opacity-80"
         >
-          <source src="/video.mp4" type="video/mp4" />
+          <source src="/video.mp4?v=1" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         

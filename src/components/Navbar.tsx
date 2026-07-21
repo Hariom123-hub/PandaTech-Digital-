@@ -71,7 +71,7 @@ export default function Navbar({ setView, currentView, onDemoRequest }: NavbarPr
             >
               <div className="w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden flex items-center justify-center group-hover:scale-105 transition-transform shadow-lg shadow-blue-500/20 bg-[#0a0f25]">
                 <img 
-                  src="/logo.png" 
+                  src="/logo.png?v=2" 
                   alt="PandaTech Logo" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"

@@ -5,31 +5,31 @@ import { useState, useEffect, useCallback } from 'react';
 const sliderImages = [
   {
     id: 1,
-    url: '/video-portfolio.mp4',
+    url: '/video-portfolio.mp4?v=1',
     title: 'Modern Digital Solutions',
     type: 'video'
   },
   {
     id: 2,
-    url: '/portfolio-1.png',
+    url: '/portfolio-1.png?v=1',
     title: 'Workspace Excellence',
     type: 'image'
   },
   {
     id: 3,
-    url: '/portfolio-2.png',
+    url: '/portfolio-2.png?v=1',
     title: 'Design Innovation',
     type: 'image'
   },
   {
     id: 4,
-    url: '/portfolio-3.png',
+    url: '/portfolio-3.png?v=1',
     title: 'Strategic Planning',
     type: 'image'
   },
   {
     id: 5,
-    url: '/portfolio-4.png',
+    url: '/portfolio-4.png?v=1',
     title: 'Future Tech',
     type: 'image'
   },

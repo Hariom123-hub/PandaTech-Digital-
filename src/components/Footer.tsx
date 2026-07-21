@@ -27,7 +27,7 @@ export default function Footer({ setView }: FooterProps) {
             <button onClick={() => navigateTo('home')} className="flex items-center gap-2 md:gap-3 mb-4 group">
               <div className="w-8 h-8 md:w-9 md:h-9 rounded-full overflow-hidden flex items-center justify-center group-hover:scale-105 transition-transform shadow-lg shadow-blue-500/20 bg-white/5 p-1">
                 <img 
-                  src="/file_000000007c9881fa8f08d4aaf62945db.png" 
+                  src="/logo.png?v=2" 
                   alt="PandaTech Logo" 
                   className="w-full h-full object-contain"
                   referrerPolicy="no-referrer"
